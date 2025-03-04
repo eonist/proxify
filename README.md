@@ -17,20 +17,22 @@
 2. Render the content on this github website
 3. Gpt sees only a github website. which is whitelisted by the gpt chat providers ✨
 
-## Prepend any url with:
+## How to use it:
+
+**Prepend any url with:**
 
 `https://eonist.github.io/proxify/?url=https://en.wikipedia.org/wiki/GitHub`
 
-## Chat with the website:
+**Chat with the website:**
 
 `Use chatgpt, lechat or perplexity`
 
-## Prompt:
+**Prompts:**
 `Summaries this: https://eonist.github.io/proxify/?url=https://en.wikipedia.org/wiki/GitHub`
 
 `What are the main points here: https://eonist.github.io/proxify/?url=https://en.wikipedia.org/wiki/GitHub`
 
-### Enable github pages via github actions:
+## Enable github pages via github actions:
 
 GitHub has introduced a new option to configure GitHub Pages to be built and deployed via GitHub Actions. This allows for more flexibility and control over the build and deployment process, leveraging the power of GitHub Actions workflows.
 
